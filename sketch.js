@@ -75,8 +75,6 @@ function draw() {
  
   packageSprite.x= packageBody.position.x;
   packageSprite.y= packageBody.position.y;
-
-  //Matter.body.translate(packageBody, {x :-20,y :0});
   
   drawSprites();
   
